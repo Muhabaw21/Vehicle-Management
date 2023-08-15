@@ -1,0 +1,42 @@
+{
+    
+    "Drivers":"ሾፌሮች",
+    "Driver":"ሾፌር",
+    "Message":"መልዕክት",
+    "Phone Number":"ስልክ ቁጥር",
+    "Status":"ሁኔታ",
+    "Vehicle":"ተሽከርካሪ",
+    "Register driver":"ሹፌር ይመዝገቡ",
+    
+    "Language":"ቋንቋ",
+    "Report":"ሪፖርት",
+    "Trip management":"የጉዞ አያያዝ",
+    "Gender":"ጾታ",
+    "Date of Birth":"የልደት ውሂብ",
+    "Email":"ኢሜይል",
+    "Available Market":"ክፍት ገበያ",
+    "Home":"መነሻ",
+    "Profile":"መገለጫ",
+    "Communication":"ግንኙነት",
+    "GPS Tracking":"መከታተል",
+    "Good morning":"እንዴት አደርክ",
+    "Change password":"የይለፍ ቃል ቀይር",
+    "Help":"እርዳታ",
+    "Setting":"መቼት",
+    "Register Driver":"ሹፌር ይመዝገቡ",
+    "Manage Driver":"ሹፌር አስተዳድር",
+    "Assign Driver":"ሹፌር መድብ ",
+    "Driver Page":" ሹፌር ገጽ",
+    "License Number":"የፍቃድ ቁጥር",
+    "Registration Form Page":"የምዝገባ ቅጽ ገጽ",
+    "Total Drivers":"ጠቅላላ አሽከርካሪዎች",
+    "Assigned Drivers":"የተመደቡ አሽከርካሪዎች",
+    "UnAssigned Drivers":"ያልተመደቡ አሽከርካሪዎች",
+    "Permit":"ፍቃድ",
+    "OnRoute Drivers":"በመንገድ ላይ ",
+    "Driver Name or Plate No":"የአሽከርካሪ ስም ወይም የሰሌዳ ቁጥር",
+    "Create Alert":"ማንቂያ ፍጠር"
+
+
+    
+  }

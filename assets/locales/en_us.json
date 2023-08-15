@@ -1,0 +1,42 @@
+ {
+    "Language":"Language",
+    "Drivers":"Drivers",
+    "Driver":"Driver",
+    "Message":"Message",
+    "Phone Number":"Phone Number",
+    "Register driver":"Register driver",
+   
+    "Status":"Status",
+    "Vehicle":"Vehicle",
+    "Report":"Report",
+    "Available Market":"Available Market",
+    "Trip management":"Trip management",
+    "Gender":" Gender",
+    "Date of Birth":"Date of Brith",
+    "Email":"Email",
+    "Home":"Home",
+    "Profile":"Profile",
+    "Communication":"Communication",
+    "GPS Tracking":"Gps Tracking",
+    "Good morning":" Good morning",
+    "Change password":"Change Password",
+    "Help":"Help",
+    "Setting":"Setting",
+    "Register Driver":"Register Driver",
+    "Manage Driver":"Manage Driver",
+    "Assign Driver":"Assign Driver",
+    "Driver Page":"Drivers Page",
+    "License Number":"License Number",
+    "Registration Form Page":"Registration Form Page",
+    "Total Drivers":"Total Drivers",
+    "Assigned Drivers":"Assigned Drivers",
+    "UnAssigned Drivers":"UnAssigned Drivers",
+    "Permit":"Permit",
+    "OnRoute Drivers":"OnRoute Drivers",
+    "Driver Name or Plate No":"Driver Name or Plate No",
+    "Create Alert":"Create Alert"
+  
+    
+    
+  }
+  

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289731249587",
+    "project_id": "bazratest",
+    "storage_bucket": "bazratest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289731249587:android:ca28ff6b461a8d488bb7c6",
+        "android_client_info": {
+          "package_name": "com.example.bazralogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289731249587-8h9drgia3ced4pol9em6bq9r7al8jisk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhBHtkfB6DEmUdmCUTDLattG4fSmqIQJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289731249587-8h9drgia3ced4pol9em6bq9r7al8jisk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
